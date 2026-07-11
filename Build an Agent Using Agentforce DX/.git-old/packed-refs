@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+c677dcc936f6871ba63eae6910f238c7bafe4e05 refs/remotes/origin/dependabot/npm_and_yarn/scripts/js/lodash-es-4.18.1
+62d8ab6d095efd59a3c6301350fbc765e5c7f735 refs/remotes/origin/dependabot/npm_and_yarn/scripts/js/uuid-14.0.0
+d0abde88994cb45008a2ae2241adeeb758b2a0f1 refs/remotes/origin/js/agent-template-sample
+3b5e2a7468b0f48fc49fb4603d75b9fed592bcac refs/remotes/origin/js/remove-local-events-subagent
+dbded6fdac0407387f4d2f47ab5fcb2534171895 refs/remotes/origin/main
+9261d6fb632b8092b03529ab2e4a644158341fb6 refs/remotes/origin/setup-script-fix
+78a0d7ee796470b47a2075209f1ced6904ddde7e refs/remotes/origin/sh/bump-apiVersion-to-66
+c2b9c0c2b541fcbcba4df7e827a9541137d5254e refs/remotes/origin/sh/fix-input-var-name
+9d387ab1ae42bd23b57ca9c68b2a47d3b7dad6a5 refs/remotes/origin/sh/initial-commit
+c1c9aef5fac652ba1c585bd3b0a60b73c54e818b refs/remotes/origin/trailhead
+4994699422c5e3fc5a73da36a6b9454968f30f57 refs/remotes/origin/trailhead2
+ecac6d6bfa26b88d9bd84708e59fe33d9c6ad441 refs/tags/tdx26-baseline
